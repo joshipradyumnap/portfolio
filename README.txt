@@ -1,7 +1,7 @@
 ***Pradyumna's Portfolio***
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HTCV7VB1Z8"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=:G-HTCV7VB1Z8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
