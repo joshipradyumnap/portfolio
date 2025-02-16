@@ -7,5 +7,5 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-HTCV7VB1Z8');
+  gtag('config', ':G-HTCV7VB1Z8');
 </script>
