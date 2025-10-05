@@ -91,7 +91,12 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  primary-color: #0A66C2;
+  accent-color: #1F3A93;
+  bg-color: #F9FAFB;
+  text-color: #1A1A1A;
+  secondary-text: #5F6C7B;
+  button-hover: #004182;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
